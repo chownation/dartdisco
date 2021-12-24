@@ -1,2 +1,2 @@
-# dartdiscover
-DART Discover
+# dartdisco
+Dart Disco
